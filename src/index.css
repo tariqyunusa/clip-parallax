@@ -29,4 +29,5 @@ body{
   left: 0;
   border-radius: 1vw;
   overflow: hidden;
+  transform: translate(-50%, -50%);
 }
